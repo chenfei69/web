@@ -15,3 +15,13 @@ git提交或克隆报错fatal: unable to access
 git config --global --unset http.proxy
 //取消https代理 
 git config --global --unset https.proxy
+
+
+//删除 manager配置
+git config --global --unset credential.helper manager
+//添加manager配置
+git config --global  credential.helper manager
+//删除 manager配置
+git config --global --unset credential.helper manager
+//添加manager配置
+git config --global  credential.helper manager
