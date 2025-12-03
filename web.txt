@@ -1,4 +1,4 @@
-学习计划 HTML 5天
+学习计划 HTML 5天 js
 
 跟新git 命令 git update-git-for-windows
 
