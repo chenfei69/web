@@ -9,12 +9,10 @@ Key： MpB6chud4SstUgSW
 
 S1DPN0.VIP8VIP.VIP LnSokTbKXPS5DMezekSSUw
 
-中转服务器信息请打开网页：
-http://111.231.33.159:5000 查看，
-注意修改好所有的中转信息后，
-主控端需要登录账号密码才能正常远控，被控端可登录可不登录，
-账号：yue7g4y 密码：73472 (月费用户)
-  
+http://111.231.33.159:5000 
+账号：yue7g4y 密码：73472 (月费用户)  
+
+
 
 ==Qfi0zaMh0cndEbjtkV09EZxxkT3tkZ4kHZ4hVTihDeTJzR
 5cUZGNVWrNXTDJEZiojI5V2aiwiI0ETMxIjO5UTMuMzMuEzM
