@@ -14,11 +14,15 @@ http://111.231.33.159:5000 查看，
 注意修改好所有的中转信息后，
 主控端需要登录账号密码才能正常远控，被控端可登录可不登录，
 账号：yue7g4y 密码：73472 (月费用户)
+  
 
-==Qfi0zaMh0cndEbjtkV09EZxxkT3tkZ4kHZ4hVTihDeTJzR5cUZGNVWrNXTDJEZiojI5V2aiwiI0ETMxIjO5UTMuMzMuEzMy4SMxEzLvoDc0RHaiojIpBXYiwiI5UTMuMzMuEzMy4SMxEjI6ISehxWZyJCLikTNx4yMz4SMzIjLxETMiojI0N3boJye
+==Qfi0zaMh0cndEbjtkV09EZxxkT3tkZ4kHZ4hVTihDeTJzR
+5cUZGNVWrNXTDJEZiojI5V2aiwiI0ETMxIjO5UTMuMzMuEzM
+y4SMxEzLvoDc0RHaiojIpBXYiwiI5UTMuMzMuEzMy4SMx
+EjI6ISehxWZyJCLikTNx4yMz4SMzIjLxETMiojI0N3boJye  
 
-111.231.33.159
-111.231.33.159
-http://111.231.33.159:21114
-dBCMskYSFeG9G2Sx8bMXxdy8fKwNLqdOtVKclGgsHLk=
+111.231.33.159  
+111.231.33.159  
+http://111.231.33.159:21114  
+dBCMskYSFeG9G2Sx8bMXxdy8fKwNLqdOtVKclGgsHLk=  
 
